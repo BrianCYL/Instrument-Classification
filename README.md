@@ -35,7 +35,7 @@ Please note that:
 
 - Each `.npy` file contains an audio segment.
 - Each label JSON maps an `.npy` filename to its 9-element multi-hot label.
-- Run all commands from the `hw1/` directory.
+- Run all commands from the `Instrument-Classification/` directory.
 - If only needing to perform inference, one can download model checkpoints from this [Google Drive](https://drive.google.com/drive/folders/17G8kVoPSDwBx-NPmPj58Z8SNJGE_3ldd?usp=sharing)
 
 ## Preprocessing
